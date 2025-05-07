@@ -3391,7 +3391,7 @@ article li a {
 }
 @media (min-width: 1025px) {
   .header-logo a {
-    width: 50px;
+    width: 150px;
   }
 }
 .header-logo svg {
